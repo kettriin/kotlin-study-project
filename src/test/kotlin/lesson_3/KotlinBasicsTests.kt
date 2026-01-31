@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Tag
 import org.junit.jupiter.api.Test
 import kotlin.random.Random
 
-@Tag("BASIC")
+@Tag("BASICARRAY")
 class KotlinBasicsTests {
 
     @Test
