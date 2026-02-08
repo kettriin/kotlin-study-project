@@ -28,3 +28,14 @@
 
 <img width="580" height="370" alt="Снимок экрана 2026-02-04 в 21 05 39" src="https://github.com/user-attachments/assets/6bf74f4b-1301-4e7c-8c08-d3415d81eacc" />
 
+## lesson_5:
+> Добавлены тесты:
+> - Строка непустая c extension
+> - Строка непустая c infix
+> - Строка не в верхнем регистре c extension
+> - Строка не в верхнем регистре c infix
+### Команда для запуска
+./gradlew clean test -DTAG=EXTENSION
+
+<img width="580" height="370" alt="Снимок экрана 2026-02-08 в 12 50 09" src="https://github.com/user-attachments/assets/0a6b7490-3ffb-4b42-bd39-ed92f3127356" />
+
